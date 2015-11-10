@@ -1,2 +1,8 @@
-# royalbicycleclub
-If you don't know what this is for, then you probably shouldn't be using it.
+# The Royal Bicycle Club
+
+##Royal
+as in Tenenbaums,
+##Bicycle
+as in don't wear technicolor spandex, 
+##Club
+as in invite only.  
